@@ -1,6 +1,5 @@
-FROM alpine:3.2
+FROM alpine:3.3
 
 MAINTAINER Vlad Frolov <frolvlad@gmail.com>
 
-RUN apk add --update ruby ruby-bundler && \
-    rm /var/cache/apk/*
+RUN apk add --no-cache ruby ruby-bundler
