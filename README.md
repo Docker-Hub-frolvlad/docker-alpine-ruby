@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-ruby.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-ruby/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-ruby.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-ruby/)
+
+
 Ruby Docker image
 =================
 
