@@ -8,9 +8,9 @@ Ruby Docker image
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
 [Ruby 2.2](https://www.ruby-lang.org/).
 
-Total size of this image is only:
+Download size of this image is only:
 
-[![](https://badge.imagelayers.io/frolvlad/alpine-ruby:latest.svg)](https://imagelayers.io/?images=frolvlad/alpine-ruby:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/frolvlad/alpine-ruby.svg)](http://microbadger.com/images/frolvlad/alpine-ruby "Get your own image badge on microbadger.com")
 
 
 Usage Example
