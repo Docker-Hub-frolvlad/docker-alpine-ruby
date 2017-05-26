@@ -1,5 +1,3 @@
-FROM alpine:3.5
-
-MAINTAINER Vlad Frolov <frolvlad@gmail.com>
+FROM alpine:3.6
 
 RUN apk add --no-cache ruby ruby-bundler
