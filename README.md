@@ -6,9 +6,9 @@ Ruby Docker image
 =================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
-[Ruby 2.7](https://www.ruby-lang.org/).
+[Ruby 3.x](https://www.ruby-lang.org/).
 
-This image is only 21MB on disk.
+This image is only 31MB on disk.
 
 
 Usage Example
